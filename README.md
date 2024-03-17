@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently expanding my **knowlege in DS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NurdoJAVA](https://github.com/NurdoJAVA)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/NurdoJAVA)
 
 - 📫 How to reach me **toichubekov04@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nurdoolot-toichubekov/](https://www.linkedin.com/in/nurdoolot-toichubekov/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/nurdoolot-toichubekov/)
 
-- ⚡ Fun fact about me **I love to train**
+- ⚡ Fun fact about me **I love to train 🏋🏻‍♂️**
 
 ## 🔗 Connect with me
 <h3 align="center">Connect with me:</h3>
