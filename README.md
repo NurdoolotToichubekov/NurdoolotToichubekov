@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nurdoolot Toichubekov</h1>
-<h3 align="center">A passionate software developer from Kyrgyzstan</h3>
+<h1 align="center">Hi 👋, I'm Nurdoolot</h1>
+<h3 align="center">Software Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nurdojava&label=Profile%20views&color=0e75b6&style=flat" alt="nurdojava" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/NurdoolotToichubekov)
 
-- 📫 How to reach me **toichubekov04@gmail.com**
+- 📫 How to reach me **nurdoolot.toichubekovv@gmail.com**
 
 - 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/nurdoolot-toichubekov/)
 
@@ -28,7 +28,3 @@
 </p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurdoolottoichubekov&show_icons=true&locale=en&layout=compact" alt="nurdoolottoichubekov" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurdoolottoichubekov&show_icons=true&locale=en" alt="nurdoolottoichubekov" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurdoolottoichubekov&" alt="nurdoolottoichubekov" /></p>
