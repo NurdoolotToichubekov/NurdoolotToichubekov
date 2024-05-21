@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently expanding my **knowlege in DS**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/NurdoJAVA)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/NurdoolotToichubekov)
 
 - 📫 How to reach me **toichubekov04@gmail.com**
 
@@ -27,8 +27,8 @@
 
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurdojava&show_icons=true&locale=en&layout=compact" alt="nurdojava" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nurdoolottoichubekov&show_icons=true&locale=en&layout=compact" alt="nurdoolottoichubekov" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurdojava&show_icons=true&locale=en" alt="nurdojava" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nurdoolottoichubekov&show_icons=true&locale=en" alt="nurdoolottoichubekov" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurdojava&" alt="nurdojava" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nurdoolottoichubekov&" alt="nurdoolottoichubekov" /></p>
